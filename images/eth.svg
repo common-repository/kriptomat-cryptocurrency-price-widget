@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.6">
+<path opacity="0.6" d="M23.7354 17.7473L8.99998 24.4489L23.7354 33.1546L38.4649 24.4489L23.7354 17.7473Z" fill="#010101"/>
+</g>
+<g opacity="0.45">
+<path opacity="0.45" d="M9 24.4489L23.7354 33.1546V0L9 24.4489Z" fill="#010101"/>
+</g>
+<g opacity="0.8">
+<path opacity="0.8" d="M23.7354 0V33.1546L38.4649 24.4489L23.7354 0Z" fill="#010101"/>
+</g>
+<g opacity="0.45">
+<path opacity="0.45" d="M8.99998 27.2408L23.7354 48V35.9464L8.99998 27.2408Z" fill="#010101"/>
+</g>
+<g opacity="0.8">
+<path opacity="0.8" d="M23.7354 35.9464V48L38.4765 27.2408L23.7354 35.9464Z" fill="#010101"/>
+</g>
+</svg>
